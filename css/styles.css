@@ -1979,10 +1979,7 @@ pre code {
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 .name_font {
-  display: block;
-  width: 100%;
-  height: calc(1.5em + 1rem);
-  padding: 0.375rem 0.75rem;
+  font-family: Consolas;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
