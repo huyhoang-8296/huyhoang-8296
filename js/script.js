@@ -21,7 +21,7 @@
 
 /* */
 function navigate_github() {
-    window.location.href = 'https://github.com/Blakley';
+    window.location.href = 'https://github.com/huyhoang-8296/';
 }
 
 /* */
@@ -30,7 +30,7 @@ function navigate_twitter() {
 }
 /* */
 function navigate_instagram() {
-    window.location.href = 'https://www.instagram.com/anthlone/';
+    window.location.href = 'https://www.instagram.com/huy_hoang82/';
 }
 
 /* */
