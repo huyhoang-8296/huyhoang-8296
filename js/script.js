@@ -23,7 +23,10 @@
 function navigate_github() {
     window.location.href = 'https://github.com/huyhoang-8296/';
 }
-
+/* */
+navigate_linkedin(){
+    window.location.href = 'https://www.linkedin.com/in/huy-hoang-039a62196/';
+}
 /* */
 function navigate_facebook() {
     window.location.href = 'https://www.facebook.com/bao.huy.758/';
