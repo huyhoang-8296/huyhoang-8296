@@ -25,7 +25,7 @@ function navigate_github() {
 }
 
 /* */
-function navigate_twitter() {
+function navigate_facebook() {
     window.location.href = 'https://www.facebook.com/bao.huy.758/';
 }
 /* */
