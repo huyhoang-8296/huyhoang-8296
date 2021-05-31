@@ -26,7 +26,7 @@ function navigate_github() {
 
 /* */
 function navigate_twitter() {
-    window.location.href = 'https://twitter.com/anthlone';
+    window.location.href = 'https://www.facebook.com/bao.huy.758/';
 }
 /* */
 function navigate_instagram() {
