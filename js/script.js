@@ -37,8 +37,8 @@ function navigate_instagram() {
 }
 
 /* */
-function navigate_project_1() {
-    console.log("navigating to project 1");
+function navigate_project_1() {  
+    window.location.href = 'https://github.com/huyhoang-8296/Shooting';
 }
 
 /* */
