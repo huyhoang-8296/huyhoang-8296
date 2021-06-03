@@ -43,7 +43,7 @@ function navigate_project_1() {
 
 /* */
 function navigate_project_2() {
-    console.log("navigating to project 2");
+    window.location.href = 'https://github.com/huyhoang-8296/MathGame';
 }
 
 /* */
